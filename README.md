@@ -1,5 +1,8 @@
 # 💫 About Me:
- Hi, I’m @Vladimir06100<br><br><br>
+ Hi, I’m @Vladimir06100<br>
+ I am a passionate and versatile software developer specializing in web technologies and mobile applications. I have worked on numerous software development projects using languages such as JavaScript, PHP, HTML, CSS, React, and Laravel. My most recent project was the creation of a restaurant management application using Laravel and React. This application includes a QR code system that allows customers to place and pay for orders directly from their phone. In addition to software development, I love exploring new technologies and staying up to date on the latest trends in the field. If you are interested in my work or have any questions, feel free to contact me or check out my online portfolio
+ <br>
+ Je suis un développeur passionné et polyvalent, spécialisé dans les technologies Web et les applications mobiles. J'ai travaillé sur de nombreux projets de développement de logiciels, utilisant des langages tels que JavaScript, PHP, HTML, CSS, React et Laravel. Mon projet le plus récent a été la création d'une application de gestion de restaurant en utilisant Laravel et React. Cette application comprend un système de QR code qui permet aux clients de passer leur commande et de payer directement depuis leur téléphone. En dehors du développement de logiciels, j'adore explorer de nouvelles technologies et suivre les dernières tendances dans le domaine. Si vous êtes intéressé par mon travail ou si vous avez des questions, n'hésitez pas à me contacter ou à consulter mon portfolio en ligne.<br><br>
 
 
 ## 🌐 Socials:
